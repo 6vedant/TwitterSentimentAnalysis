@@ -1,0 +1,1 @@
+Close the graph and pie chart to see the sentiment results
