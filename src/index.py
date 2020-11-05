@@ -191,6 +191,7 @@ data['SA'] = np.array([analize_sentiment(tweet) for tweet in data['Tweets']])
 
 # We display the updated dataframe with the new column:
 display(data.head(10))
+print("hello dear")
 
 # We construct lists with classified tweets:
 
